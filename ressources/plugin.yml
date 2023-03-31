@@ -1,0 +1,7 @@
+name: OpTools
+main: fr.cyberldelta88.OpTools.Main
+description: OpTools is a plugin that allows you to open a gui full of useful tools for server administrators with the /optools
+version: 0.1
+author: Cyberdelta88
+commands:
+  optools:
